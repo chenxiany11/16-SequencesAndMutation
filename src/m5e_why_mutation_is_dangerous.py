@@ -36,6 +36,7 @@ def main():
 
 
 def one_example_of_danger():
+
     # ------------------------------------------------------------------
     # Students:
     #   1. Read the   move_randomly   specification below.
@@ -54,10 +55,10 @@ def one_example_of_danger():
     # Can you figure out what went wrong?
     # Once you do so, do you see why mutation is dangerous?
     # ------------------------------------------------------------------
-
+    #
     # Un-comment these as you do the above exercise.
-    # run_test_move_randomly()
-    # run_test_repeat_move_randomly()
+    run_test_move_randomly()
+    run_test_repeat_move_randomly()
 
 
 def run_test_move_randomly():
